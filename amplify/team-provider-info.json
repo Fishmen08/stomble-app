@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-stomble-dev-145521-authRole",
+      "UnauthRoleArn": "arn:aws:iam::871544800644:role/amplify-stomble-dev-145521-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::871544800644:role/amplify-stomble-dev-145521-authRole",
+      "Region": "ap-southeast-2",
+      "DeploymentBucketName": "amplify-stomble-dev-145521-deployment",
+      "UnauthRoleName": "amplify-stomble-dev-145521-unauthRole",
+      "StackName": "amplify-stomble-dev-145521",
+      "StackId": "arn:aws:cloudformation:ap-southeast-2:871544800644:stack/amplify-stomble-dev-145521/c39fd0c0-3a32-11ed-9ebd-0a2ced2d13b6",
+      "AmplifyAppId": "d204hop10882np"
+    }
+  }
+}
